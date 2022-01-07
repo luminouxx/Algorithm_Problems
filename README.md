@@ -23,4 +23,6 @@ Tel) 010 - 4602 - 1620
 
 E-mail) yungzin98@pusan.ac.kr
 
+Blog) https://blog.naver.com/yungzin98
+
 Thanks.
