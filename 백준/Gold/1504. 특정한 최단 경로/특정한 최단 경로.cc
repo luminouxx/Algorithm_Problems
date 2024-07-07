@@ -38,9 +38,6 @@ int dijkstra(int x, int y) {
 
                 if (dist[next_v] > next_dist) {
                     dist[next_v] = next_dist;
-                    // if (!visited[next_dist]) {
-                    //     q.push({next_dist, next_v});
-                    // }
                     q.push({next_dist, next_v});
                 }
             }
